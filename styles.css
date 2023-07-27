@@ -56,6 +56,7 @@ footer {
   font-family: 'Lobster', cursive;
   font-size: 1.2rem;
   margin-top: 2rem;
+  border-radius: 10px;
 }
 
 .reload-btn:hover {
